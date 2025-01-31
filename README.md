@@ -1,6 +1,6 @@
 # Constraints_Strengthening
 
-This code reproduces all examples in the following reference.
+This code contains Mathematica notebooks reproducing all examples in the following reference.
 
 > [1] Rubbens, Anne, and Taylor, Adrien B.. "One-point extensions of function and operator classes."
 
