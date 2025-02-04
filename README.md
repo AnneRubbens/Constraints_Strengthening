@@ -1,6 +1,6 @@
 # Constraints_Strengthening
 
-This code contains Mathematica notebooks reproducing all examples in the following reference.
+This repository is a companion to reproduce all examples of the work:
 
 > [1] Rubbens, Anne, and Taylor, Adrien B. "One-point extensions of function and operator classes."
 
@@ -18,11 +18,11 @@ Version: February 2025
 - detailed computations of [1, Section 3.5]: [`Monotone Lipschitz operators`](Examples/Monotone_Lipschitz_Operators.nb)
 - detailed computations of [1, Section 3.6]: [`Strongly monotone cocoercive operators`](Examples/Monotone_Cocoercive_Operators.nb)
 
-(2) [`PEPit examples`]():
-- PEP application: a block-coordinate descent method analyzed with conditions from [1, Corrolary 3]: [`BlockCoordinate`](PEPit/BCD.pynb)
-- PEP application: a gradient descent method analyzed with conditions from [1, Corrolary 2]: [`GradientDescent`](PEPit/GD.pynb)
+(2) [`PEPit examples`](PEPit/):
+- PEP application: a block-coordinate descent method analyzed with conditions from [1, Corrolary 3]: [`BlockCoordinate`](PEPit/BCD.ipynb).
+- PEP application: a gradient descent method analyzed with conditions from [1, Corrolary 2]: [`GradientDescent`](PEPit/GD.ipynb).
 
-#### Authors & Contributors
-- [**Anne Rubbens**](https://scholar.google.com/citations?user=J4J2l6oAAAAJ&hl=en&oi=ao) (author)
-- [**Adrien Taylor**](http://www.di.ens.fr/~ataylor/) (author)
+#### Authors
+- [**Anne Rubbens**](https://scholar.google.com/citations?user=J4J2l6oAAAAJ&hl=en&oi=ao)
+- [**Adrien Taylor**](http://www.di.ens.fr/~ataylor/)
 
