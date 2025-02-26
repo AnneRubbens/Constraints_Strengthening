@@ -2,7 +2,7 @@
 
 This repository is a companion to reproduce all examples of the work:
 
-> [1] Rubbens, Anne, and Taylor, Adrien B. "One-point extensions of function and operator classes."
+> [1] Anne Rubbens, Julien M. Hendrickx, Adrien Taylor. "One-point extensions of function and operator classes."
 
 Date:    February 2025
 
@@ -24,5 +24,6 @@ Version: February 2025
 
 #### Authors
 - [**Anne Rubbens**](https://scholar.google.com/citations?user=J4J2l6oAAAAJ&hl=en&oi=ao)
+- [**Julien M. Hendrickx**](https://perso.uclouvain.be/julien.hendrickx/)
 - [**Adrien Taylor**](http://www.di.ens.fr/~ataylor/)
 
