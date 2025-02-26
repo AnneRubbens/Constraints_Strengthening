@@ -24,5 +24,6 @@ Version: February 2025
 
 #### Authors
 - [**Anne Rubbens**](https://scholar.google.com/citations?user=J4J2l6oAAAAJ&hl=en&oi=ao)
+- [**Julien M. Hendrickx**](https://perso.uclouvain.be/julien.hendrickx/)
 - [**Adrien Taylor**](http://www.di.ens.fr/~ataylor/)
 
