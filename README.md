@@ -4,9 +4,9 @@ This repository is a companion to reproduce all examples of the work:
 
 > [1] Anne Rubbens, Julien M. Hendrickx, Adrien Taylor. "A constructive approach to strengthen algebraic descriptions of function and operator classes."
 
-Date:    February 2025
+Date:    April 2025
 
-Version: February 2025
+Version: April 2025
 
 #### Folder organization & files
 
